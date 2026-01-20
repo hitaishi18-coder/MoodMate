@@ -15,8 +15,8 @@ import About from "../pages/About";
 import TimerAlarm from "../pages/TimerAlarm";
 import DailyDiary from "../pages/DailyDiary";
 
-import SignInPage from "../pages/SignIn";
-import SignUpPage from "../pages/SignUp";
+import SignInPage from "../pages/Signin";
+import SignUpPage from "../pages/Signup";
 import Profile from "../pages/Profile";
 import ProtectedRoute from "./ProtectedRoute";
 
